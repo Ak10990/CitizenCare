@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">CitizenCare</string>
+    <string name="my_wall">My Wall</string>
+    <string name="my_tasks">My Issues</string>
+    <string name="my_watch">My Watch</string>
+</resources>
